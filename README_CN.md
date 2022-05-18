@@ -1,4 +1,5 @@
 <img src=Image/title.png width=100% height=100% />
+
 ![license](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
@@ -33,9 +34,7 @@
 
 开源代码中使用GCDWebServer在本地搭建了离线包依赖的查询和下载接口，故可以直接本地体验示例工程，界面截图如下：
 
-<img src=Image/1.jpg width=30% height=30% />
-<img src=Image/2.png width=30% height=30% />
-<img src=Image/3.png width=30% height=30% />
+<img src=Image/1.jpg width=30% height=30% /><img src=Image/2.png width=30% height=30% /> <img src=Image/3.png width=30% height=30% />
 
 ## 问题交流
 - 如果你发现了bug或者有其他功能诉求，欢迎提issue。
