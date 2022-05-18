@@ -1,0 +1,26 @@
+#use_frameworks!
+source 'https://cdn.cocoapods.org/'
+platform :ios, '9.0'
+
+target 'HLLOfflineWebVC_Example' do
+  pod 'HLLOfflineWebVC', :path => '../'
+  pod 'CRToast', '~> 0.0.7'
+  pod 'GCDWebServer'
+  pod 'Masonry', '1.1.0'
+  
+  #以下为接入的上层业务层可能会用到的功能库，比如：进行埋点数据上报等
+  post_install do |installer|
+    installer.pods_project.targets.each do |target|
+      target.build_configurations.each do |config|
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= ['$(inherited)','WEBVCTYPE=1']
+        #如果需要从TransparentWebVC派生，则定义该宏
+       # puts "===================>target build configure #{config.build_settings}"
+      end
+    end
+  end
+  
+  target 'HLLOfflineWebVC_Tests' do
+    inherit! :search_paths
+ 
+   end
+end
