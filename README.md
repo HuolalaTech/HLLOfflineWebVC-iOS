@@ -1,4 +1,5 @@
 <img src=Image/title.png width=100% height=100% />
+
 ![license](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
@@ -33,9 +34,7 @@
 2) Enter the 'Example' folder, enter command 'pod install' to install 3rd-party libraries.
 3) Open the project 'HLLOfflineWebVC.xcworkspace' and built it by Xcode.  If you complile and run the demo successfully, you will see the UI below:
 
-<img src=Image/1.jpg width=30% height=30% />
-<img src=Image/2.png width=30% height=30%  />
-<img src=Image/3.png width=30% height=30% />
+<img src=Image/1.jpg width=30% height=30% /> <img src=Image/2.png width=30% height=30%  />  <img src=Image/3.png width=30% height=30% />
 
 
 ## Communication
