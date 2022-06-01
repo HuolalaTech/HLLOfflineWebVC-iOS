@@ -4,17 +4,18 @@
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Language](https://img.shields.io/badge/language-ObjectC-green.svg)
+[![wiki](https://img.shields.io/badge/Wiki-open-brightgreen.svg)](https://juejin.cn/post/7103348563479887885)
 
 ---
 
  HLLOfflineWebVC is a lightweight and high-performance hybrid framework developed by HUOLALA mobile team, which is intended to improve the load speed of websites on mobile phone. It base on [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview/) at iOS system.  
- HLLOfflineWebVC can cache html, css, js, png and other static resource on the disk. When the app load the web page, it directly load the resource from disk and reduce network request.
+ HLLOfflineWebVC can cache html, css, js, png and other static resource on the disk. When the app load the web page, it directly load the resource from disk and reduce network request. You can get more details from the [article](https://juejin.cn/post/7103348563479887885).
 ## Before VS After Using HLLOfflineWebVC
 
  | |Before Using HLLOfflineWebVC |   After Using HLLOfflineWebVC
 |--|:-------------------------:|:-------------------------:
 | Time Cost|2s |   1s
-|Movie|<img src=Image/1.gif width=60% height=40% />  | <img src=Image/2.gif width=60% height=40% />
+|Movie|<img src=Image/1.gif  />  | <img src=Image/2.gif  />
 
 
 
