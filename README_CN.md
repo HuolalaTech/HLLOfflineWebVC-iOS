@@ -4,6 +4,7 @@
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Language](https://img.shields.io/badge/language-ObjectC-green.svg)
+[![wiki](https://img.shields.io/badge/Wiki-open-brightgreen.svg)](https://juejin.cn/post/7103348563479887885)
 
 ---
 ## 介绍
