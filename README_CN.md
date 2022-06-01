@@ -10,12 +10,12 @@
 ## 介绍
 
    &emsp;&emsp;HLLOfflineWebVC是货拉拉自研的轻量级高性能H5离线包sdk，可以显著的提升H5页面加载速度，iOS端基于[WKWebView](https://developer.apple.com/documentation/webkit/wkwebview/)实现。
-主要原理为：提前缓存html、js、css、图片等资源文件到静态到本地，当H5页面请求资源时，尽量从本地获取数据，减少网络请求。
+主要原理为：提前缓存html、js、css、图片等资源文件到静态到本地，当H5页面请求资源时，尽量从本地获取数据，减少网络请求。更新原理细节参考文章[《货拉拉H5离线包原理与实践》](https://juejin.cn/post/7103348563479887885)。
 ## 比较
  | |未使用离线包 |   使用离线包
 |--|:-------------------------:|:-------------------------:
 | 耗时|2s |   1s
-|视频|<img src=Image/1.gif width=60% height=50% />  | <img src=Image/2.gif width=60% height=50% />
+|视频|<img src=Image/1.gif  />  | <img src=Image/2.gif  />
 
 
 ## 特点
