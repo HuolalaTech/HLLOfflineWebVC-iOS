@@ -1,6 +1,7 @@
 <img src=Image/title.png width=100% height=100% />
 
-[![license](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
+[![license](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Language](https://img.shields.io/badge/language-ObjectC-green.svg)
