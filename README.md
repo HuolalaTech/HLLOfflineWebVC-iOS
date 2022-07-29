@@ -171,4 +171,4 @@ The main API :
 ## Author 
  [HUOLALA mobile technology team](https://juejin.cn/user/1768489241815070).
 ## License
- HLLOfflineWebVC is released under the Apache license. See [LICENSE](LICENSE) for details.
+ HLLOfflineWebVC is released under the Apache 2.0 license. See [LICENSE](LICENSE) for details.
