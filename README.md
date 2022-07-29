@@ -1,7 +1,6 @@
 <img src=Image/title.png width=100% height=100% />
 
-![license](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)
-![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
+[![license](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Language](https://img.shields.io/badge/language-ObjectC-green.svg)
 [![wiki](https://img.shields.io/badge/Wiki-open-brightgreen.svg)](https://juejin.cn/post/7103348563479887885)
@@ -172,4 +171,4 @@ The main API :
 ## Author 
  [HUOLALA mobile technology team](https://juejin.cn/user/1768489241815070).
 ## License
- HLLOfflineWebVC is released under the GPL license. See [LICENSE](LICENSE) for details.
+ HLLOfflineWebVC is released under the Apache 2.0 license. See [LICENSE](LICENSE) for details.

@@ -1,6 +1,6 @@
 <img src=Image/title.png width=100% height=100% />
 
-![license](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)
+[![license](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Pod Version](https://img.shields.io/badge/pod-v1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Language](https://img.shields.io/badge/language-ObjectC-green.svg)
@@ -177,5 +177,5 @@ H5离线包加载的路径为文件路径为，发起cgi请求时，origin为nul
 ## 作者
 &emsp;&emsp; [货拉拉移动端技术团队](https://juejin.cn/user/1768489241815070)
 ## 许可证
-&emsp;&emsp;采用GPL协议，详情参考[LICENSE](LICENSE)
+&emsp;&emsp;采用Apache2.0协议，详情参考[LICENSE](LICENSE)
 
