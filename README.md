@@ -61,7 +61,7 @@ If you want to bring the code into your project, you need to do the following:
 ###  Develop A HTTP Service
  1) HTTP Request
 
-    https://huolala.com/queryOffline?clientType=iOS&clientVer=1.0.0&offlineZipVer=1.0.0&bisName=xx
+    https://huolala.cn/queryOffline?clientType=iOS&clientVer=1.0.0&offlineZipVer=1.0.0&bisName=xx
       
    &emsp;requet data parameters description:
 
