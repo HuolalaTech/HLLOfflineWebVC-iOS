@@ -60,7 +60,7 @@
 ### 离线包服务搭建
 - 实现查询接口
 
-  https://www.xxx.com/queryOffline?clientType=iOS&clientVer=1.0.0&offlineZipVer=1.0.0&bisName=xxx
+  https://www.huolala.com/queryOffline?clientType=iOS&clientVer=1.0.0&offlineZipVer=1.0.0&bisName=xxx
 
   请求参数接口参数说明：
 
