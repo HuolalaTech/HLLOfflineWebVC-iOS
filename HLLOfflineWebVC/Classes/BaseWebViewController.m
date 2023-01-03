@@ -145,10 +145,6 @@
     WKWebViewConfiguration *webViewConfiguration = [[WKWebViewConfiguration alloc] init];
     WKUserContentController *userContentController = [[WKUserContentController alloc] init];
     webViewConfiguration.userContentController = userContentController;
-    NSString *loadUrlString = nil;
-    NSString *documentPath =
-        NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES).firstObject;
-    loadUrlString = [NSString stringWithFormat:@"%@/yanagi-test-1-v1/index.html", documentPath];
     NSLog(@"webview inital start");
 
     WKWebView *webView = [[WKWebView alloc] initWithFrame:self.view.frame configuration:webViewConfiguration];
